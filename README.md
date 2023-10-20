@@ -13,8 +13,8 @@ Make sure to disable the browser cache to avoid issues with caching the JavaScri
 
 
 ## A. Setup
-1. Open [html/index.html](https://github.com/giussepi/ECS521-Interactive-Media-Design-and-Production-Labs-Work-2022-Lab-3/blob/main/html/index.html) in browser (chrome/firefox/ie).
-2. Open [js/script.js](https://github.com/giussepi/ECS521-Interactive-Media-Design-and-Production-Labs-Work-2022-Lab-3/blob/main/js/script.js) in text editor.
+1. Open [html/index.html](https://github.com/ChenY2000/ECS521U-Lab1/main/html/index.html) in browser (chrome/firefox/ie).
+2. Open [js/script.js](https://github.com/ChenY2000/ECS521U-Lab1/main/js/script.js) in text editor.
 
 ## B. Draw/Position the image on the Canvas using [HTML canvas drawImage()](https://www.w3schools.com/tags/canvas_drawimage.asp) Method.
 
@@ -97,7 +97,7 @@ Tune 6 different functions to elaborate concept of horizontal and vertical scali
 	  <img src="imgs/horizontal_vertical_moving.png"/>
 
 ## Submission Instructions:
-### Deadline: 21/10/22 17:00
+### Deadline: 20/10/23 15:00
 The Submission Link is available under ASSESMENT INFORMATION/RESOURCES Section of Module Page.
 
 ### General Instruction:
