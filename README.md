@@ -13,8 +13,8 @@ Make sure to disable the browser cache to avoid issues with caching the JavaScri
 
 
 ## A. Setup
-1. Open [html/index.html](https://github.com/ChenY2000/ECS521U-Lab1/main/html/index.html) in browser (chrome/firefox/ie).
-2. Open [js/script.js](https://github.com/ChenY2000/ECS521U-Lab1/main/js/script.js) in text editor.
+1. Open [html/index.html](https://github.com/aassddqqy/ECS521U-lab3/blob/main/html/index.html) in browser (chrome/firefox/ie).
+2. Open [js/script.js](https://github.com/aassddqqy/ECS521U-lab3/blob/main/js/script.js) in text editor.
 
 ## B. Draw/Position the image on the Canvas using [HTML canvas drawImage()](https://www.w3schools.com/tags/canvas_drawimage.asp) Method.
 
